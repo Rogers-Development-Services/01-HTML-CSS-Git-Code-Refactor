@@ -81,7 +81,7 @@ main {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    /* I'm not sure what clear is doing here */
+    /* I'm not sure what clear is doing here for my non-float elements */
     clear: both;
     float: right;
     width: 20%;
