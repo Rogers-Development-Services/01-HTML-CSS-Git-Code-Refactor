@@ -51,11 +51,14 @@ p {
 }
 
 .hero {
+     /* The background image will always be 800px high */
     height: 800px;
-    width: 100%;
+    /* The background image will always take up 100% of the viewports width width */
+    width: 100%; 
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    /* While preserving its intrinsic proportions, the image is rendered at the largest size covering the background positioning area. If the image has no intrinsic proportions, then it's rendered at the size of the background positioning area.*/
+    background-size: cover; 
     background-position: center;
 }
 
