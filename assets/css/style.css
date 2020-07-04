@@ -15,9 +15,10 @@ header {
     color: #ffffff;
 }
 
+/* Restyled all font-sizes to rem for accessibility */
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 3rem;
 }
 
 header h1 .seo {
@@ -30,7 +31,7 @@ header nav {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 header nav ul {
@@ -52,7 +53,7 @@ nav ul li a:hover {
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 /* Overwriting Bootstrap Flexbox */
@@ -102,7 +103,7 @@ main {
 
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: white;
 }
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
@@ -131,7 +132,7 @@ main {
 
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 footer {
@@ -142,7 +143,7 @@ footer {
 }
 
 footer h2 {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 /* Tying to understand how media queries affect nav bar*/
