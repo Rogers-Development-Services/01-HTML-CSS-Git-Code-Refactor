@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header Style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation Bar Style */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,7 +42,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-nav ul li a {
+header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -54,23 +55,10 @@ p {
     font-size: 16px;
 }
 
-/* Tying to understand how media queries affect nav bar*/
-/* @media screen and (min-width: 768px) and (max-width: 959px) {
-    nav {background: red;}
-} 
-
-@media screen and (min-width: 480px) and (max-width: 767px) {
-    nav {background: blue;}
+/* Overwriting Bootstrap Flexbox */
+nav div ul {
+    background-color: #2a607c !Important;
 }
-
-@media screen and (max-width: 479px) {
-    nav {background: green;}
-} */
-
-/* img {
-    max-width: 100%;
-    height: auto;
-} */
 
 .hero {
      /* The background image will always be 800px high */
@@ -156,3 +144,21 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Tying to understand how media queries affect nav bar*/
+/* @media screen and (min-width: 768px) and (max-width: 959px) {
+    nav {background: red;}
+} 
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    nav {background: blue;}
+}
+
+@media screen and (max-width: 479px) {
+    nav {background: green;}
+} */
+
+/* img {
+    max-width: 100%;
+    height: auto;
+} */
