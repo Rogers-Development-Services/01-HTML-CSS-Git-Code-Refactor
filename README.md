@@ -1,8 +1,8 @@
-# 01-HTML-CSS-Git-Code-Refactor
+# Horiseon Landing Page
 
 ## Updating SEO Website for Accessibility and Conciseness 
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+<!-- Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
 The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
 
@@ -12,37 +12,25 @@ At a minimum, your project README needs a title and a short description explaini
 
 If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode). -->
 
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+Here at Horiseon we pride ourselves on quality communication of any product you want to market online. Our team commitment is to provide an client with excellent Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Just starting? No Worries! We will equip you with lead generation strategies, help your buisness to generate brand awarness, all while managing your advertising costs as your site grows!
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Browse our site by clicking the links in the top header to navigate down to explinations of our services. For best results open your web browser in full screen (maximized) on a desktop computer
 
+## Feedback
+
+Ask us a question 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Guidence for ADA Compliance Standards was given by the https://matchboxdesigngroup.com/blog/website-accessibility-and-ada-compliance/#ADA_Compliance_Standards_For_Designers_And_Developers_Explained - automatic! 
+[MATCHBOX Design Group](https://matchboxdesigngroup.com/blog/website-accessibility-and-ada-compliance/#ADA_Compliance_Standards_For_Designers_And_Developers_Explained)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 ## License
