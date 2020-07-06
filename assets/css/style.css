@@ -58,7 +58,7 @@ p {
 
 .hero {
     height: 800px;
-    width: 100%; 
+    width: 800px; 
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover; 
@@ -138,13 +138,4 @@ footer {
 
 footer h2 {
     font-size: 1.25rem;
-}
-
-/* Tying to understand how to make website responsive*/
-
-@media screen and (max-width: 768) {
-    .hero {
-        max-width: 100%;
-        height: auto;
-    }
 }
