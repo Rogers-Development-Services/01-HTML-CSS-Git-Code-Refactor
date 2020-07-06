@@ -4,7 +4,7 @@ Here at Horiseon we pride ourselves on quality communication of any product you 
 
 ## Usage 
 
-Browse our site by clicking the links in the top header to navigate down to explinations of our services. For best results open your web browser in full screen (maximized) on a desktop computer
+Browse our site by clicking the links in the top header to navigate down to explinations of our services. For best results open your web browser in full screen (maximized) on a desktop computer.
 
 ## Feedback
 
