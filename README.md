@@ -1,6 +1,6 @@
 # Horiseon Landing Page
 
-Here at Horiseon we pride ourselves on quality communication of any product you want to market online. Our team commitment is to provide an client with excellent Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Just starting? No Worries! We will equip you with lead generation strategies, help your buisness to generate brand awarness, all while managing your advertising costs as your site grows!
+Here at Horiseon we pride ourselves on quality communication of any product you want to market online. Our team commitment is to provide any client with excellent Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Just starting? No Worries! We will equip you with lead generation strategies, help your buisness to generate brand awarness, all while managing your advertising costs as your site grows!
 
 ## Usage 
 
